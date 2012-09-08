@@ -4,7 +4,7 @@ get '/' do
   erb :index
 end
 
-post 'create_matrix' do
+post '/create_matrix' do
   "Hello World"
 end
 
